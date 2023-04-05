@@ -1,0 +1,63 @@
+ID00001
+Back to The Future
+1985
+Robert Zemeckis
+Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover
+Action,Adventure,Sci-Fi
+4.25
+
+ID00002
+Rocky Horror Picture Show
+1975
+Jim Sharman
+Tim Curry,Richard O'Brien,Susan Sarandon,Meat Loaf
+Horror,Comedy
+3.7
+
+ID00003
+The Matrix
+1999
+Andy Wachowski,Larry Wachowski
+Laurence Fishburne,Keanu Reeves,Hugo Weaving,Carrie-Anne Moss
+Action,Sci-Fi,Thriller
+4.15952
+
+ID00004
+The Matrix Reloaded
+2003
+Andy Wachowski,Larry Wachowski
+Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving
+Action,Adventure,Sci-Fi,Thriller,IMAX
+3.36812
+
+ID00005
+Collider
+2018
+Justin Lewis
+Christine Mascolo,Jude Moran,Conner Greenhalgh,Heath C. Heine
+Sci-Fi
+3
+
+ID00006
+The Psychotronic Man
+1980
+Jack M. Sell
+Peter Spelson,Chris Carbis,Curt Colbert,Robin Newton
+Horror,Sci-Fi
+2
+
+ID00007
+Alien Outlaw
+1985
+Phil Smoot
+Stephen Winegard,Kimberly Mauldin,Stuart Watson,Sunset Carson,Kari Anderson
+Comedy,Horror,Mystery,Sci-Fi,Western
+3
+
+ID00008
+Running with the Devil
+2019
+Jason Cabell
+Nicolas Cage,Leslie Bibb,Clifton Collins Jr.,Barry Pepper,Laurence Fishburne
+Crime,Drama,Thriller,Adventure
+2.93182
