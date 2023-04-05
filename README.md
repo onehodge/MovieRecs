@@ -31,7 +31,7 @@ Here are the recommendations:
 1. The Blues Brothers (1980)
    Rating: 3.79643
    Compatibility Score: 390
-
+   
 2. The Player (1992)
    Rating: 3.92309
    Compatibility Score: 281
