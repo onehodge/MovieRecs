@@ -12,9 +12,9 @@ To identify recommended movies for a given person P, the app calculates a compat
 - Tie-breaker: movie ratings
 
 Below is a sample input-output: 
-
-Enter a user's email for recommendations: **KabiL@aol.com**
-Enter number of recommendations to provide: **8**
+```
+Enter a user's email for recommendations: KabiL@aol.com
+Enter number of recommendations to provide: 8
 
 User Kabir Luna has watched the following movies:
 Notes On Blindness
@@ -23,7 +23,7 @@ The Big Bang
 Homefront
 For Ellen
 Hitch
-_... the rest of the movies are omitted for this example_
+... the rest of the movies are omitted for this example
 The Valley of Gwangi
 
 Here are the recommendations:
@@ -31,7 +31,7 @@ Here are the recommendations:
 1. The Blues Brothers (1980)
    Rating: 3.79643
    Compatibility Score: 390
-   
+
 2. The Player (1992)
    Rating: 3.92309
    Compatibility Score: 281
@@ -59,3 +59,4 @@ Here are the recommendations:
 8. Filth (2013)
    Rating: 3.64121
    Compatibility Score: 221
+```
