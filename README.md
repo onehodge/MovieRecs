@@ -23,7 +23,7 @@ The Big Bang
 Homefront
 For Ellen
 Hitch
-... the rest of the movies are omitted for this example
+_... the rest of the movies are omitted for this example_
 The Valley of Gwangi
 
 Here are the recommendations:
